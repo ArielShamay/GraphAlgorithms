@@ -6,7 +6,7 @@ for run the progrem you need to use g++ compiler and run the following command:
 
 1. Clone the Repository: First, you need to clone the repository to your local machine. Open a terminal and run the following command:
 
-git clone 
+git clone https://github.com/ArielShamay/CPP2_EX1.git
 
 2. Navigate to the Project Directory: Change your current directory to the project directory:
 
