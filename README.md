@@ -50,3 +50,6 @@ That project deals with graph algorithms. Here's a brief overview of the functio
 7. std::string Algorithms::negativeCycle(const Graph &grp): This function checks for a negative cycle in the graph. It uses the Bellman-Ford algorithm to relax the edges of the graph and then uses detectAndConstructCycle to detect and construct the negative cycle.
 
 The code uses several data structures like vectors and queues, and it also uses concepts like graph theory and algorithms like DFS (Depth-First Search) and the Bellman-Ford algorithm.
+
+
+
